@@ -18,7 +18,7 @@ if md <= 218.276:
 
 - *Mahanlanobis distance (md)*
 
-	![img](http://www.sciweavers.org/tex2img.php?eq=md_%7Brs%7D%5E%7B2%7D%3D%28x_%7Br%7Dx_%7Bs%7D%29V%5E%7B-1%7D%28x_%7Br%7Dx_%7Bs%7D%29%5E%7B%5Cprime%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![img](http://www.sciweavers.org/tex2img.php?eq=md_%7Brs%7D%5E%7B2%7D%3D%28x_%7Br%7Dx_%7Bs%7D%29V%5E%7B-1%7D%28x_%7Br%7Dx_%7Bs%7D%29%5E%7B%5Cprime%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 **2- Rule for rbf kernel:**
 
