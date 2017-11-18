@@ -18,7 +18,7 @@ if md <= 218.276:
 
 - *Mahanlanobis distance (md)*
 
-![img](http://www.sciweavers.org/tex2img.php?eq=md_%7Brs%7D%5E%7B2%7D%3D%28x_%7Br%7Dx_%7Bs%7D%29V%5E%7B-1%7D%28x_%7Br%7Dx_%7Bs%7D%29%5E%7B%5Cprime%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+<img src="http://bit.ly/2mHLiCD" align="center" border="0" alt="md_{rs}^{2}=(x_{r}-x_{s})V^{-1}(x_{r}-x_{s})^{\prime}" width="242" height="26" />
 
 **2- Rule for rbf kernel:**
 
@@ -29,11 +29,11 @@ elif (R > 9 and p-norm_cdf > 7.2957) or (p-du_cdf <= 2.8185):
 
 - *Range (R)*
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=R%20%3D%20max%28X%29-min%28X%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="R = max(X)-min(X)" width="181" height="18" />
+	<img src="http://bit.ly/2mEFIAQ" align="center" border="0" alt="R = max(X) - min(X)" width="181" height="18" />
 
 - *Normal cdf (P-norm_cdf)*
 
-	<img src="https://latex.codecogs.com/gif.latex?P_{norm\_cdf} = F(x|\mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}}\int^{x}_{-\infty}e^{-(x-\mu)^{2}/2\sigma^{2}}dt" /> 
+	<img src="http://bit.ly/2mDKhv9" align="center" border="0" alt="P_{norm\_cdf} = F(x|\mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}}\int^{x}_{-\infty}e^{-(x-\mu)^{2}/2\sigma^{2}}dt" width="394" height="49" />
 
 - *Discrete uniform cdf*
 
