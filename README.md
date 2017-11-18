@@ -29,7 +29,7 @@ elif (R > 9 and p-norm_cdf > 7.2957) or (p-du_cdf <= 2.8185):
 
 - *Range (R)*
 
-	<img src="https://latex.codecogs.com/gif.latex?R = max(X)-min(X)" /> 
+<img src="https://latex.codecogs.com/gif.latex?R = max(X)-min(X)" /> 
 
 - *Normal cdf (P-norm_cdf)*
 
