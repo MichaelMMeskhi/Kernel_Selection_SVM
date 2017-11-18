@@ -4,7 +4,7 @@ Author:
 
 - [Michael M.Meskhi](michaelmm.com)
 
-This project is based on this paper by [Shawkat Ali and Kate A. Smith-Miles](https://github.com/MichaelMMeskhi/Kernel_Selection_SVM/blob/master/Papers/Ali06.pdf).By collection meta-features about a task at hand (dataset), we generate rules based on collected statistical information and perform automatic kernel selection for our Support Vector Machine.
+This project is based on this paper by [Shawkat Ali and Kate A. Smith-Miles](https://github.com/MichaelMMeskhi/Kernel_Selection_SVM/blob/master/Papers/Ali06.pdf). By collection meta-features about a task at hand (dataset), we generate rules based on collected statistical information and perform automatic kernel selection for our Support Vector Machine.
 
 Meta-features:
 
