@@ -13,7 +13,7 @@ Meta-features:
 
 ```Python
 if md <= 218.276:
-	kernel = 'poly'
+    kernel = 'poly'
 ```
 
 - *Mahanlanobis distance (md)*
@@ -24,7 +24,7 @@ if md <= 218.276:
 
 ```Python
 elif (R > 9 and p-norm_cdf > 7.2957) or (p-du_cdf <= 2.8185):
-	kernel = 'rbf'
+    kernel = 'rbf'
 ```
 
 - *Range (R)*
@@ -43,7 +43,7 @@ elif (R > 9 and p-norm_cdf > 7.2957) or (p-du_cdf <= 2.8185):
 
 ```Python
 elif y-gama_pdf <= 17.1671:
-	kernel = 'laplace'
+    kernel = 'laplace'
 ```
 
 - *Gamma pdf*
@@ -54,7 +54,7 @@ elif y-gama_pdf <= 17.1671:
 
 ```Python
 elif (y-ray_pdf > 20.2875) or (M <= 90.7233):
-	kernel = 'spline'
+    kernel = 'spline'
 ```
 
 - *Median (M)*
@@ -69,5 +69,5 @@ elif (y-ray_pdf > 20.2875) or (M <= 90.7233):
 
 ```Python
 else:
-	kernel = 'rbf'
+    kernel = 'rbf'
 ```
