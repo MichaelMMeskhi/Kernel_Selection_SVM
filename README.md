@@ -11,6 +11,6 @@ Meta-features:
 
 - *Mahanlanobis distance (md)*
 
-$md_{rs}^{2}=(x_{r}-x_{s})V^{-1}(x_{r}-x_{s})\prime$
 
+<img src="https://latex.codecogs.com/gif.latex?md_{rs}^{2}=(x_{r}-x_{s})V^{-1}(x_{r}-x_{s})^{\prime}" /> 
 
