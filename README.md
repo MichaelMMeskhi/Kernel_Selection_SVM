@@ -18,7 +18,7 @@ if md <= 218.276:
 
 - *Mahanlanobis distance (md)*
 
-	<img src="https://latex.codecogs.com/gif.latex?md_{rs}^{2}=(x_{r}-x_{s})V^{-1}(x_{r}-x_{s})^{\prime}" /> 
+	![img](http://www.sciweavers.org/tex2img.php?eq=md_%7Brs%7D%5E%7B2%7D%3D%28x_%7Br%7Dx_%7Bs%7D%29V%5E%7B-1%7D%28x_%7Br%7Dx_%7Bs%7D%29%5E%7B%5Cprime%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 **2- Rule for rbf kernel:**
 
@@ -29,7 +29,7 @@ elif (R > 9 and p-norm_cdf > 7.2957) or (p-du_cdf <= 2.8185):
 
 - *Range (R)*
 
-<img src="https://latex.codecogs.com/gif.latex?R = max(X)-min(X)" /> 
+<img src="http://www.sciweavers.org/tex2img.php?eq=R%20%3D%20max%28X%29-min%28X%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="R = max(X)-min(X)" width="181" height="18" />
 
 - *Normal cdf (P-norm_cdf)*
 
